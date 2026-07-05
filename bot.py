@@ -2,7 +2,7 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-TELEGRAM_TOKEN = "8961218182:AAF17RA7SwHn3qLPCsGz8JfIVha9Bvu"
+TELEGRAM_TOKEN = "8961218182:AAHvx4RJ5cE6lNSaV5cJKLgvbwHcOY5o8dY"
 YANDEX_API_KEY = "AQVNWlucEz6w9rj_XYbJ-oNAUjNzc0OdodgQ-Yz"
 AGENT_ID = "ag-fvtggoimbgmjmf0oqf94"
 
